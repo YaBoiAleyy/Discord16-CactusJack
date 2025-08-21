@@ -17,15 +17,30 @@
 
 /* Colors */
 * {
-    --custom-bg: #32302f;
-    --custom-secondary-bg: #282828;
+    --custom-bg: #291F1E;
+    --custom-secondary-bg: #1A1414;
 
-    --custom-accent: #fabd2f;
-    --custom-secondary-accent: #d79921;
+    --custom-accent: #40f67a;
+    --custom-secondary-accent: #F64740;
 
     --dark-border: #1d2021;
     --light-border: #928374;
 
     --custom-text: #fbf1c7;
     --custom-secondary-text: #a89984;
+}
+
+/* Old Colors */
+/* {
+*    --custom-bg: #32302f;
+*    --custom-secondary-bg: #282828;
+
+*   --custom-accent: #fabd2f;
+*   --custom-secondary-accent: #d79921;
+
+*    --dark-border: #1d2021;
+*    --light-border: #928374;
+
+*    --custom-text: #fbf1c7;
+*    --custom-secondary-text: #a89984;
 }
